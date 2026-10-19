@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Aqib 👋
 
-<!--
-**Muhammad-Aqib28/Muhammad-Aqib28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Aspiring Software Developer  
+🌱 Currently learning programming and web development.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
+- C and C++
+- Python
+- HTML and CSS
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Improve my programming skills
+- Build practical software projects
+- Learn modern web development
+- Grow as a software engineer
+
+### 🤝 Connect with Me
+- LinkedIn: [Muhammad Aqib](https://www.linkedin.com/in/muhammad-aqib-a56b11406/)
+
+---
+
+*Learning every day. Building step by step.* 🚀
